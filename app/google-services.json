@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "364611941416",
+    "firebase_url": "https://gcmemployee-6658e.firebaseio.com",
+    "project_id": "gcmemployee-6658e",
+    "storage_bucket": "gcmemployee-6658e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364611941416:android:28bf47bdedd7254d",
+        "android_client_info": {
+          "package_name": "com.example.salma.gcmemployee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364611941416-7h6t2hiklg1sinv5ike62s4h9f0kolre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp10ZYrHfZHgo3nGacSpHlefR2OsQszN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
